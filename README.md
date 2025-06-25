@@ -28,6 +28,8 @@ Folder Structure
 
 Live demo : https://monisa46.github.io/Student-Management-Dashboard/
 
+YOUTUBE link voice over :https://youtu.be/A-9QzBDZAbU
+
 License
 
 This project is licensed under the MIT License — feel free to modify, reuse, and distribute with attribution.
