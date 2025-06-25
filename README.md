@@ -26,7 +26,7 @@ Folder Structure
 - style.css — Custom styles (optional if separate)  
 - script.js — JavaScript logic (optional if separated from HTML)
 
-Live demo :
+Live demo : https://monisa46.github.io/Student-Management-Dashboard/
 
 License
 
